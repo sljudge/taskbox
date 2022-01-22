@@ -856,7 +856,7 @@
    flex-wrap: wrap;
    height: 3rem;
    width: 100%;
-   background: #fcfcfc;
+   background: #efefef;
    transition: all ease-out 150ms;
   }
   .list-item .title {
