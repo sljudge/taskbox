@@ -20,11 +20,6 @@ exports[`Storyshots PureInboxScreen Default 1`] = `
   >
     <div
       className="list-item TASK_INBOX"
-      style={
-        Object {
-          "backgroundColor": "red",
-        }
-      }
     >
       <label
         className="checkbox"
@@ -69,11 +64,6 @@ exports[`Storyshots PureInboxScreen Default 1`] = `
     </div>
     <div
       className="list-item TASK_INBOX"
-      style={
-        Object {
-          "backgroundColor": "red",
-        }
-      }
     >
       <label
         className="checkbox"
@@ -118,11 +108,6 @@ exports[`Storyshots PureInboxScreen Default 1`] = `
     </div>
     <div
       className="list-item TASK_INBOX"
-      style={
-        Object {
-          "backgroundColor": "red",
-        }
-      }
     >
       <label
         className="checkbox"
@@ -167,11 +152,6 @@ exports[`Storyshots PureInboxScreen Default 1`] = `
     </div>
     <div
       className="list-item TASK_INBOX"
-      style={
-        Object {
-          "backgroundColor": "red",
-        }
-      }
     >
       <label
         className="checkbox"
@@ -216,11 +196,6 @@ exports[`Storyshots PureInboxScreen Default 1`] = `
     </div>
     <div
       className="list-item TASK_INBOX"
-      style={
-        Object {
-          "backgroundColor": "red",
-        }
-      }
     >
       <label
         className="checkbox"
@@ -265,11 +240,6 @@ exports[`Storyshots PureInboxScreen Default 1`] = `
     </div>
     <div
       className="list-item TASK_INBOX"
-      style={
-        Object {
-          "backgroundColor": "red",
-        }
-      }
     >
       <label
         className="checkbox"
@@ -360,11 +330,6 @@ exports[`Storyshots PureInboxScreen With Interactions 1`] = `
   >
     <div
       className="list-item TASK_INBOX"
-      style={
-        Object {
-          "backgroundColor": "red",
-        }
-      }
     >
       <label
         className="checkbox"
@@ -409,11 +374,6 @@ exports[`Storyshots PureInboxScreen With Interactions 1`] = `
     </div>
     <div
       className="list-item TASK_INBOX"
-      style={
-        Object {
-          "backgroundColor": "red",
-        }
-      }
     >
       <label
         className="checkbox"
@@ -458,11 +418,6 @@ exports[`Storyshots PureInboxScreen With Interactions 1`] = `
     </div>
     <div
       className="list-item TASK_INBOX"
-      style={
-        Object {
-          "backgroundColor": "red",
-        }
-      }
     >
       <label
         className="checkbox"
@@ -507,11 +462,6 @@ exports[`Storyshots PureInboxScreen With Interactions 1`] = `
     </div>
     <div
       className="list-item TASK_INBOX"
-      style={
-        Object {
-          "backgroundColor": "red",
-        }
-      }
     >
       <label
         className="checkbox"
@@ -556,11 +506,6 @@ exports[`Storyshots PureInboxScreen With Interactions 1`] = `
     </div>
     <div
       className="list-item TASK_INBOX"
-      style={
-        Object {
-          "backgroundColor": "red",
-        }
-      }
     >
       <label
         className="checkbox"
@@ -605,11 +550,6 @@ exports[`Storyshots PureInboxScreen With Interactions 1`] = `
     </div>
     <div
       className="list-item TASK_INBOX"
-      style={
-        Object {
-          "backgroundColor": "red",
-        }
-      }
     >
       <label
         className="checkbox"
@@ -659,11 +599,6 @@ exports[`Storyshots PureInboxScreen With Interactions 1`] = `
 exports[`Storyshots Task Archived 1`] = `
 <div
   className="list-item TASK_ARCHIVED"
-  style={
-    Object {
-      "backgroundColor": "red",
-    }
-  }
 >
   <label
     className="checkbox"
@@ -701,11 +636,6 @@ exports[`Storyshots Task Archived 1`] = `
 exports[`Storyshots Task Default 1`] = `
 <div
   className="list-item TASK_INBOX"
-  style={
-    Object {
-      "backgroundColor": "red",
-    }
-  }
 >
   <label
     className="checkbox"
@@ -753,11 +683,6 @@ exports[`Storyshots Task Default 1`] = `
 exports[`Storyshots Task Pinned 1`] = `
 <div
   className="list-item TASK_PINNED"
-  style={
-    Object {
-      "backgroundColor": "red",
-    }
-  }
 >
   <label
     className="checkbox"
@@ -815,11 +740,6 @@ exports[`Storyshots TaskList Default 1`] = `
   >
     <div
       className="list-item TASK_INBOX"
-      style={
-        Object {
-          "backgroundColor": "red",
-        }
-      }
     >
       <label
         className="checkbox"
@@ -864,11 +784,6 @@ exports[`Storyshots TaskList Default 1`] = `
     </div>
     <div
       className="list-item TASK_INBOX"
-      style={
-        Object {
-          "backgroundColor": "red",
-        }
-      }
     >
       <label
         className="checkbox"
@@ -913,11 +828,6 @@ exports[`Storyshots TaskList Default 1`] = `
     </div>
     <div
       className="list-item TASK_INBOX"
-      style={
-        Object {
-          "backgroundColor": "red",
-        }
-      }
     >
       <label
         className="checkbox"
@@ -962,11 +872,6 @@ exports[`Storyshots TaskList Default 1`] = `
     </div>
     <div
       className="list-item TASK_INBOX"
-      style={
-        Object {
-          "backgroundColor": "red",
-        }
-      }
     >
       <label
         className="checkbox"
@@ -1011,11 +916,6 @@ exports[`Storyshots TaskList Default 1`] = `
     </div>
     <div
       className="list-item TASK_INBOX"
-      style={
-        Object {
-          "backgroundColor": "red",
-        }
-      }
     >
       <label
         className="checkbox"
@@ -1060,11 +960,6 @@ exports[`Storyshots TaskList Default 1`] = `
     </div>
     <div
       className="list-item TASK_INBOX"
-      style={
-        Object {
-          "backgroundColor": "red",
-        }
-      }
     >
       <label
         className="checkbox"
@@ -1303,11 +1198,6 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
   >
     <div
       className="list-item TASK_PINNED"
-      style={
-        Object {
-          "backgroundColor": "red",
-        }
-      }
     >
       <label
         className="checkbox"
@@ -1352,11 +1242,6 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
     </div>
     <div
       className="list-item TASK_INBOX"
-      style={
-        Object {
-          "backgroundColor": "red",
-        }
-      }
     >
       <label
         className="checkbox"
@@ -1401,11 +1286,6 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
     </div>
     <div
       className="list-item TASK_INBOX"
-      style={
-        Object {
-          "backgroundColor": "red",
-        }
-      }
     >
       <label
         className="checkbox"
@@ -1450,11 +1330,6 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
     </div>
     <div
       className="list-item TASK_INBOX"
-      style={
-        Object {
-          "backgroundColor": "red",
-        }
-      }
     >
       <label
         className="checkbox"
@@ -1499,11 +1374,6 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
     </div>
     <div
       className="list-item TASK_INBOX"
-      style={
-        Object {
-          "backgroundColor": "red",
-        }
-      }
     >
       <label
         className="checkbox"
@@ -1548,11 +1418,6 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
     </div>
     <div
       className="list-item TASK_INBOX"
-      style={
-        Object {
-          "backgroundColor": "red",
-        }
-      }
     >
       <label
         className="checkbox"
