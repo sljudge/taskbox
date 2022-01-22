@@ -856,10 +856,10 @@
    flex-wrap: wrap;
    height: 3rem;
    width: 100%;
-   background: white;
+   background: #fefefe;
    transition: all ease-out 150ms;
- }
- .list-item .title {
+  }
+  .list-item .title {
    overflow: hidden;
    text-overflow: ellipsis;
    white-space: nowrap;
